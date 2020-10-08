@@ -3,7 +3,10 @@
     src:url('C:\Users\ALI ZIA\Desktop\Channel slides\Lobster\Lobster-Regular.ttf')
 }
 
-
+@media only screen and(max-width:480px){
+   body{ background-color: black;
+   }
+}
 
 .parent{
     display:flex;
